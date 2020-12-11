@@ -1,5 +1,5 @@
 # Very Low Mass Stars - ALMA 
-ALMA Cycle 6 + Archival data. Projet aimed to search for substructures in disk around Very Low Mass Stars, in the Taurus star-forming region.
+ALMA Cycle 6 + Archival data. Project aimed to search for substructures in disk around Very Low Mass Stars, in the Taurus star-forming region.
 
 This datasets are presented in Kurtovic et al. (2021) \
 https://arxiv.org/abs/2012.02225
