@@ -9,7 +9,7 @@ https://arxiv.org/abs/2012.02225
 
 
 ## VLMS fits files
-Continuum fits files have the dust continuum emission in ALMA Band 7, the 12CO J:3-2 and 13CO J:3-2 emission. Be aware of the following details:\
+Continuum fits files have the dust continuum emission in ALMA Band 7, the 12CO J:3-2 and 13CO J:3-2 emission. Be aware of the following details:
 - Check for channel width, pixel size, and beam size in the header.\
 - Do not use this fits files for astrometry with other epocs.\
 - Calibration scripts are described in the paper.
