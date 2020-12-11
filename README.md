@@ -40,3 +40,12 @@ Continuum fits files have the dust continuum emission in ALMA Band 7, the 12CO J
 [dust continuum](https://keeper.mpdl.mpg.de/f/24b3998ee92f4b5bb1b9/?dl=1) (16Mb)\
 [12CO](https://keeper.mpdl.mpg.de/f/f11865e2c6f34920a237/?dl=1) (480Mb)\
 [13C0](https://keeper.mpdl.mpg.de/f/e157a6be5cd2412590a2/?dl=1) (176Mb)
+
+
+## Video summary
+
+Recently our results were presented on the HLTau2020 conference. Here's a very quick summary of our observations and some results.
+
+<a href="https://www.youtube.com/watch?v=b0trglKMi9g
+" target="_blank"><img src="http://img.youtube.com/vi/b0trglKMi9g/0.jpg" 
+alt="" width="240" height="180" border="10" /></a>
