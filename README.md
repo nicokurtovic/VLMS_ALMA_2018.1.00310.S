@@ -12,6 +12,7 @@ https://arxiv.org/abs/2012.02225
 Continuum fits files have the dust continuum emission in ALMA Band 7, the 12CO J:3-2 and 13CO J:3-2 emission. CHeck for channel width, pixel size, and beam size in the header. Do not use this fits files for astrometry with other epocs.
 
 ### MHO 6:
+##### Fits
 [dust continuum](https://keeper.mpdl.mpg.de/f/5fa330b9cc724ceb851a/?dl=1) (16 Mb) \
 [12CO](https://keeper.mpdl.mpg.de/f/39b6c4de8a274d59933e/?dl=1) (630 Mb) \
 [13CO](https://keeper.mpdl.mpg.de/f/a9328b759ff7496bbab4/?dl=1) (320 Mb)
