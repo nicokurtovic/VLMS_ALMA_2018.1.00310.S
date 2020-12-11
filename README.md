@@ -5,6 +5,9 @@ This datasets are presented in Kurtovic et al. (2021) \
 https://arxiv.org/abs/2012.02225
 
 
+![Very Low Mass Stars, dust continuum emission](https://github.com/nicokurtovic/VLMS_ALMA_2018.1.00310.S/VLMS.png)
+
+
 ## VLMS fits files
 Continuum fits files have the dust continuum emission in ALMA Band 7, the 12CO J:3-2 and 13CO J:3-2 emission. CHeck for channel width, pixel size, and beam size in the header. Do not use this fits files for astrometry with other epocs.
 
