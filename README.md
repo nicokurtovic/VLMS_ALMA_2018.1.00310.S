@@ -5,7 +5,7 @@ This datasets are presented in Kurtovic et al. (2021) \
 https://arxiv.org/abs/2012.02225
 
 
-![Very Low Mass Stars, dust continuum emission](https://github.com/nicokurtovic/VLMS_ALMA_2018.1.00310.S/VLMS.png)
+![Very Low Mass Stars, dust continuum emission](https://github.com/nicokurtovic/VLMS_ALMA_2018.1.00310.S/blob/main/VLMS.png)
 
 
 ## VLMS fits files
