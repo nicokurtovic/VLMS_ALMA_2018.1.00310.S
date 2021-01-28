@@ -70,7 +70,7 @@ Continuum fits files have the dust continuum emission in ALMA Band 7, the 12CO J
 [13C0](https://keeper.mpdl.mpg.de/f/c29f12d5b3734999b283/?dl=1) (320MB)
 **MS files**\
 [dust continuum](https://keeper.mpdl.mpg.de/f/91d2a2b9100d4466b747/?dl=1) (822.4MB)\
-[12CO]() ()\
+12CO\
 [13CO](https://keeper.mpdl.mpg.de/f/33a5d96d7a884a67ba82/?dl=1) (1.7GB)\
 **Other files**\
 [calibration script](https://keeper.mpdl.mpg.de/f/eb877c595c1e4635a8d2/?dl=1) (42.2KB)\
